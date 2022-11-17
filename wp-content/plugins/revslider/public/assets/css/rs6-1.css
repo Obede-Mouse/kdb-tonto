@@ -1,15 +1,4 @@
-/*-----------------------------------------------------------------------------
 
--	Revolution Slider 6.0 Default Style Settings -
-
-Screen Stylesheet
-
-version:   	6.0.0
-date:      	24/06/19
-author:		themepunch
-email:     	info@themepunch.com
-website:   	http://www.themepunch.com
------------------------------------------------------------------------------*/
 
 /* FIX FOR WORDPRESS's CRAZY <p> TAG ANOMALY */
 .rs-p-wp-fix { display: none !important; margin: 0 !important; height: 0px !important; }  
@@ -74,7 +63,7 @@ rs-sbg-px { pointer-events: none }
 }
 
 .the_timeline_tester {
-	background:#e74c3c;
+	background:green;
 	position:absolute;
 	top:0px;
 	left:0px;
@@ -1178,7 +1167,7 @@ rs-loader.spinner2 {
 	width: 40px;
 	height: 40px;
 	margin-top:-20px;margin-left:-20px;
-	background-color: #ff0000;
+	background-color: green;
 	box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.15);	
 	border-radius: 100%;	
 	animation: tp-scaleout 1.0s infinite ease-in-out;
