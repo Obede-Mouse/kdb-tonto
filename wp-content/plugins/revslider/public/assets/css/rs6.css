@@ -74,7 +74,7 @@ rs-sbg-px { pointer-events: none }
 }
 
 .the_timeline_tester {
-	background:#e74c3c;
+	background:green;
 	position:absolute;
 	top:0px;
 	left:0px;
