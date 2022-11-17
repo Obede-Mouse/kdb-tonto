@@ -17,7 +17,7 @@ div.wpcf7 .screen-reader-response {
 div.wpcf7-response-output {
 	margin: 2em 0.5em 1em;
 	padding: 0.2em 1em;
-	border: 2px solid #ff0000;
+	border: 2px solid green;
 }
 
 div.wpcf7-mail-sent-ok {
@@ -26,7 +26,7 @@ div.wpcf7-mail-sent-ok {
 
 div.wpcf7-mail-sent-ng,
 div.wpcf7-aborted {
-	border: 2px solid #ff0000;
+	border: 2px solid green;
 }
 
 div.wpcf7-spam-blocked {
@@ -43,7 +43,7 @@ div.wpcf7-acceptance-missing {
 }
 
 span.wpcf7-not-valid-tip {
-	color: #f00;
+	color: green;
 	font-size: 1em;
 	font-weight: normal;
 	display: block;
@@ -54,7 +54,7 @@ span.wpcf7-not-valid-tip {
 	top: 20%;
 	left: 20%;
 	z-index: 100;
-	border: 1px solid #ff0000;
+	border: 1px solid green;
 	background: #fff;
 	padding: .2em .8em;
 }
@@ -76,7 +76,7 @@ span.wpcf7-list-item-label::after {
 div.wpcf7 .ajax-loader {
 	visibility: hidden;
 	display: inline-block;
-	background-image: url('../../images/ajax-loader.gif');
+	background-image: url('../../images/');
 	width: 16px;
 	height: 16px;
 	border: none;
